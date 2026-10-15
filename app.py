@@ -8,7 +8,6 @@ st.set_page_config(
 )
 
 # Title, header, subheader and text
-# Title, header, subheader and text
 st.title("🚀 Streamlit Basics Demo")
 st.header("Explore Streamlit Features")
 st.subheader("Interactive widgets, forms, and layouts using Python")
